@@ -4,8 +4,10 @@
 
 ###samples:
 
-####Win:
-<img src="https://github.com/Shanni/HangMan_Tinkter/blob/master/win.png" alt="Drawing" width=300/>
+**Win:**
 
-**Lost:
-<img src="https://github.com/Shanni/HangMan_Tinkter/blob/master/loss.png" alt="Drawing" width=300/>
+<img src="https://github.com/Shanni/HangMan_Tinkter/blob/master/win.png" alt="Drawing" width=600/>
+
+**Lost:**
+
+<img src="https://github.com/Shanni/HangMan_Tinkter/blob/master/loss.png" alt="Drawing" width=600/>
