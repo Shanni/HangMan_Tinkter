@@ -4,6 +4,6 @@
 
 samples:
 ***
-![Wining](https://github.com/Shanni/HangMan_Tinkter/blob/master/win.png)=100x
+![Wining](https://github.com/Shanni/HangMan_Tinkter/blob/master/win.png =100)
 ***
 ![Losing](https://github.com/Shanni/HangMan_Tinkter/blob/master/loss.png)
