@@ -11,3 +11,5 @@
 **Lost:**
 
 <img src="https://github.com/Shanni/HangMan_Tinkter/blob/master/loss.png" alt="Drawing" width=600/>
+
+--I finished the project in a day...--
